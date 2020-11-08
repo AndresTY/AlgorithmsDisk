@@ -1,5 +1,5 @@
-# Disk algorithms
-These are differents types of disk planning, although not all algorithms, these are the most popular and seen in their class.
+# Disk Scheduling Algorithms
+These are differents types of Disk Scheduling Algorithms, although not all algorithms, these are the most popular and seen in their class.
 
 ## Short summary of algorithms
 ### FIFO
